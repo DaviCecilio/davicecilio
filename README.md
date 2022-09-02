@@ -2,7 +2,7 @@
 Davi Cecilio</a></h1>
 
 ```ts
-import FullStackDeveloper from "me"
+import FullStackDeveloper from "@me"
 
 interface AboutMe {
   name: string
