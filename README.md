@@ -1,16 +1,49 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/davicecilio/" target="_blank">
+Davi Cecilio</a></h1>
 
-<!--
-**DaviCecilio/davicecilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```ts
+import FullStackDeveloper from "me"
 
-Here are some ideas to get you started:
+interface AboutMe {
+  name: string
+  location: string
+  mainTechs: string[]
+  hobbies: string[]
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+export class Resume extends FullStackDeveloper {
+  public aboutMe: AboutMe
+
+  constructor() {
+    this.aboutMe = {
+      name: "Davi Cecilio 👋",
+      location: "Belo Horizonte - MG | 🇧🇷",
+      mainTechs: ["Node.js", "Typescript", "React.js"],
+      hobbies: [
+        "🏍️ Motorcycle ",
+        "🥾 Hiking and Camping",
+        "🪂 Skydiving",
+        "🍺 Drinking craft beer",
+      ],
+    }
+  }
+}
+```
+
+- 👨‍💻 I'm a Software engineer currently working at [Beduka](https://beduka.com/) and [Peixe30](https://peixe30.com/).
+
+- 🤝 Available to freelancer
+
+- 📫️ How to reach me: davim.cecilio@gmail.com
+
+<br/>
+
+<div align="center">
+<a href="mailto:davim.cecilio@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />    
+</a>
+
+<a href="https://www.linkedin.com/in/davicecilio/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />    
+</a>
+</div>
