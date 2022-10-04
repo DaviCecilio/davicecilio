@@ -51,5 +51,7 @@ export class Resume extends FullStackDeveloper {
 <br/>
 
 <div align="center">
-      <img src="https://wakatime.com/badge/user/d2a28491-1637-4cac-bde4-a4512d3c21cd.svg" />    
+  <a href="https://wakatime.com/@d2a28491-1637-4cac-bde4-a4512d3c21cd">
+    <img src="https://wakatime.com/badge/user/d2a28491-1637-4cac-bde4-a4512d3c21cd.svg" />    
+  </a>
 </div>
