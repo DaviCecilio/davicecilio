@@ -39,6 +39,12 @@ export class Resume extends FullStackDeveloper {
 <br/>
 
 <div align="center">
+      <img src="https://wakatime.com/badge/user/d2a28491-1637-4cac-bde4-a4512d3c21cd.svg" />    
+</div>
+
+<br/>
+
+<div align="center">
 <a href="mailto:davim.cecilio@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />    
 </a>
