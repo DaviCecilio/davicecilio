@@ -39,11 +39,11 @@ export class Resume extends FullStackDeveloper {
 <br/>
 
 <div align="center">
-<a href="mailto:davim.cecilio@gmail.com">
+<a href="mailto:davim.cecilio@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />    
 </a>
 
-<a href="https://www.linkedin.com/in/davicecilio/">
+<a href="https://www.linkedin.com/in/davicecilio/"  target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />    
 </a>
 </div>
@@ -51,5 +51,11 @@ export class Resume extends FullStackDeveloper {
 <br/>
 
 <div align="center">
-<a href="https://wakatime.com/@d2a28491-1637-4cac-bde4-a4512d3c21cd"><img src="https://wakatime.com/badge/user/d2a28491-1637-4cac-bde4-a4512d3c21cd.svg" alt="Total time coded since Jan 13 2021" /></a>
+<a href="https://wakatime.com/@d2a28491-1637-4cac-bde4-a4512d3c21cd"  target="_blank"><img src="https://wakatime.com/badge/user/d2a28491-1637-4cac-bde4-a4512d3c21cd.svg" alt="Total time coded since Jan 13 2021" /></a>
+
+<br/>
+
+<h6>
+  *Total time coded since Jan 13 2021
+</h6>
 </div>
