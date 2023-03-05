@@ -18,12 +18,11 @@ export class Resume extends FullStackDeveloper {
     this.aboutMe = {
       name: "Davi Cecilio 👋",
       location: "Belo Horizonte - MG | 🇧🇷",
-      mainTechs: ["Node.js", "Typescript", "React.js"],
+      mainTechs: ["Typescript", "React.js", "Node.js"],
       hobbies: [
-        "🏍️ Motorcycle ",
+        "🏍️ Motorcycle",
         "🥾 Hiking and Camping",
-        "🪂 Skydiving",
-        "🍺 Drinking craft beer",
+        "🪂 Skydiving"
       ],
     }
   }
