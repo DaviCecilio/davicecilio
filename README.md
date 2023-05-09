@@ -20,9 +20,9 @@ export class Resume extends FullStackDeveloper {
       location: "Belo Horizonte - MG | 🇧🇷",
       mainTechs: ["Typescript", "React.js", "Node.js"],
       hobbies: [
-        "🏍️ Motorcycle",
-        "🥾 Hiking and Camping",
-        "🪂 Skydiving"
+        "🥾 Trekking/Hiking",
+        "🏍️ Motorcycle", 
+        "🏃 Running"
       ],
     }
   }
