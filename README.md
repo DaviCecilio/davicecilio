@@ -29,7 +29,7 @@ export class Resume extends FullStackDeveloper {
 }
 ```
 
-- 👨‍💻 I'm a Software engineer currently working at [Beduka](https://beduka.com/) and [Peixe30](https://peixe30.com/).
+- 👨‍💻 I'm a Software engineer currently working at [Peixe30](https://peixe30.com/).
 
 - 🤝 Available to freelancer
 
