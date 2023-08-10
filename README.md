@@ -2,27 +2,28 @@
 Davi Cecilio</a></h1>
 
 ```ts
-import FullStackDeveloper from "@me"
+import { ISoftwareDeveloper } from "@me"
 
-interface AboutMe {
-  name: string
+interface IAboutMe {
+  lifeMotto: string
   location: string
   mainTechs: string[]
   hobbies: string[]
 }
 
-export class Resume extends FullStackDeveloper {
-  public aboutMe: AboutMe
+export class Resume implements ISoftwareDeveloper {
+  public aboutMe: IAboutMe
 
   constructor() {
     this.aboutMe = {
-      name: "Davi Cecilio 👋",
-      location: "Belo Horizonte - MG | 🇧🇷",
+      lifeMotto: "An investment in knowledge pays the best interest.", // Benjamin Franklin
+      location: "Belo Horizonte - MG | 🇧🇷", // Brazil
       mainTechs: ["Typescript", "React.js", "Node.js"],
       hobbies: [
+        "🐂 Investment",
         "🥾 Trekking/Hiking",
-        "🏍️ Motorcycle", 
-        "🏃 Running"
+        "🏍️ Motorcycle",
+        "🌐 IoT"
       ],
     }
   }
