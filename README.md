@@ -2,7 +2,7 @@
 Davi Cecilio</a></h1>
 
 ```ts
-import { ISoftwareDeveloper } from "@me"
+import { ISoftwareEngineer } from "@me"
 
 interface IAboutMe {
   lifeMotto: string
@@ -11,7 +11,7 @@ interface IAboutMe {
   hobbies: string[]
 }
 
-export class Resume implements ISoftwareDeveloper {
+export class IAm implements ISoftwareEngineer {
   public aboutMe: IAboutMe
 
   constructor() {
