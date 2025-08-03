@@ -2,13 +2,15 @@
 Davi Cecilio</a></h1>
 
 ```ts
-import { ISoftwareEngineer } from "@me"
-
 interface IAboutMe {
   lifeMotto: string
   location: string
   mainTechs: string[]
   hobbies: string[]
+}
+
+interface ISoftwareEngineer {
+  aboutMe: IAboutMe
 }
 
 export class IAm implements ISoftwareEngineer {
