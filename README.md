@@ -34,8 +34,6 @@ export class IAm implements ISoftwareEngineer {
 
 - 👨‍💻 I'm a Software engineer currently working at [Peixe30](https://peixe30.com/).
 
-- 🤝 Available to freelancer
-
 - 📫️ How to reach me: davim.cecilio@gmail.com
 
 <br/>
